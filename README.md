@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahilash RS</h1>
 <h3 align="center">Bachelor of Information Technology</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Ahilash05">
-    <img src="https://komarev.com/ghpvc/?username=Ahilash05&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ahilash05's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
 - An aspiring developer trying to create software solutions for real world problems, currently pursuing bachelors of information technology .
 
