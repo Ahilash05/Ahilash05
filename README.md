@@ -11,10 +11,6 @@
 - Product Management
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Ahilash05&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ahilash RS's GitHub Trophies" />
-</p>
 
 
 ## 🛠️ Languages & Tools
